@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/calculator_1",
+            "program": "${workspaceFolder}/prime",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

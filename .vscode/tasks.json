@@ -6,7 +6,7 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "g++ -g calculator_1.cpp -o calculator_1",
+            "command": "g++ -g prime.cpp -o prime",
             "group": {
                 "kind": "build",
                 "isDefault": true
