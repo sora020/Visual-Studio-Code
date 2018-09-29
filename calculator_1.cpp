@@ -1,6 +1,6 @@
 #include <iostream>
-#include<stdlib.h>
-#include<conio.h>
+#include <stdlib.h>
+#include <conio.h>
 
 void clrscr()
 {
