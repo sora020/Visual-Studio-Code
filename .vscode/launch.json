@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/prime",
+            "program": "${workspaceFolder}/cudacpp",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
