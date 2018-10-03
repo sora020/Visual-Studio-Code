@@ -2,6 +2,7 @@
 #include <math.h>
 
 //  function to add the elements of two arrays
+__global__
 void add(int n, float *x, float *y)
 {
 
@@ -17,10 +18,13 @@ int main(void)
     /* code */
     int n = 1 << 20; //1M elements
 
-    float *x = new float[n];
-    float *y = new float[n];
+    float *x,*y;
 
-    // INitialize x and y arrays on the host
+    //Allocate Uniofied MEmory -- accessible from CPU or GPU
+    cudaMallocManaged(&x, n*sizeof(float));
+    cudaMallocManaged(&y, n*sizeof(float));
+
+    // Initialize x and y arrays on the host
     for (int i = 0; i < n; i++)
     {
         x[i] = 1.0f;
@@ -28,7 +32,10 @@ int main(void)
     }
 
     // Run kernel on 1M elements on CPU
-    add(n, x, y);
+    add<<<1, 1>>>(n,x,y);
+
+    //Wait for GPU to finish before accessing on host
+    cudaDeviceSynchronize();
 
     float maxError = 0.0f;
     for (int i = 0; i < n; i++)
