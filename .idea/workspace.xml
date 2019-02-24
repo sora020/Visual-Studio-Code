@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Visual_Studio_Code" targetName="Visual_Studio_Code" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="952cde4a-f853-4b49-9d89-48af448a741b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/calculator.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator_1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cudacpp.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prime.cpp" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cuda_cpp/.vscode/tasks.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1085">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1004" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Visual_Studio_Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Visual-Studio-Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ankan\OneDrive\Desktop\Visual-Studio-Code\Calculator_1" />
+      <recent name="C:\Users\ankan\OneDrive\Desktop\Visual-Studio-Code\Prime_Number" />
+      <recent name="C:\Users\ankan\OneDrive\Desktop\Visual-Studio-Code\Cuda_cpp" />
+      <recent name="C:\Users\ankan\OneDrive\Desktop\Visual-Studio-Code\Calculator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ankan\OneDrive\Desktop\Visual-Studio-Code\Prime_Number" />
+      <recent name="C:\Users\ankan\OneDrive\Desktop\Visual-Studio-Code\Cudacpp" />
+      <recent name="C:\Users\ankan\OneDrive\Desktop\Visual-Studio-Code\Calculator_1" />
+      <recent name="C:\Users\ankan\OneDrive\Desktop\Visual-Studio-Code\Calculator" />
+      <recent name="C:\Users\ankan\OneDrive\Desktop\Visual-Studio-Code" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Visual_Studio_Code" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Visual_Studio_Code" TARGET_NAME="Visual_Studio_Code" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Visual_Studio_Code" RUN_TARGET_NAME="Visual_Studio_Code">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="952cde4a-f853-4b49-9d89-48af448a741b" name="Default Changelist" comment="" />
+      <created>1550982272289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550982272289</updated>
+      <workItem from="1550982289517" duration="342000" />
+      <workItem from="1550982642272" duration="791000" />
+      <workItem from="1550989218847" duration="506000" />
+    </task>
+    <task id="LOCAL-00001" summary="editted whole repo">
+      <created>1550989334485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550989334485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1639000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1004" height="688" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2605932" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49894068" weight="0.32972974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010593" side_tool="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49894068" weight="0.32972974" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32972974" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="editted whole repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="editted whole repo" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Calculator/.vscode/tasks.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculator_1.cpp.txt" />
+    <entry file="file://$PROJECT_DIR$/add_cuda" />
+    <entry file="file://$PROJECT_DIR$/cudacpp.cpp.cpp" />
+    <entry file="file://$PROJECT_DIR$/Calculator/calculator.cpp" />
+    <entry file="file://$PROJECT_DIR$/prime" />
+    <entry file="file://$PROJECT_DIR$/Cuda_cpp/cudacpp.cpp" />
+    <entry file="file://$PROJECT_DIR$/Cuda_cpp/cudacpp.1.cu" />
+    <entry file="file://$PROJECT_DIR$/Cuda_cpp/.vscode/tasks.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1085">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
