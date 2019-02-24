@@ -1,0 +1,3 @@
+C:/Users/ankan/OneDrive/Desktop/Visual-Studio-Code/Cuda_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ankan/OneDrive/Desktop/Visual-Studio-Code/Cuda_cpp/cmake-build-debug/CMakeFiles/Cuda_cpp.dir
+C:/Users/ankan/OneDrive/Desktop/Visual-Studio-Code/Cuda_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
